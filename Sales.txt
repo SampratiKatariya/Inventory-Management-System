@@ -1,2 +1,0 @@
-"Name of customer : ihk  Phone no : ug\nItem name : T-shirt Price : 400 Quantity : 3\nItem name : Kurtee Price : 500 Quantity : 5\n"
-"Name of customer : Samprati Katariya  Phone no : 7767788883\nItem name : Kurtee Price : 500 Quantity : 2\nItem name : Chocolate Shake Price : 100 Quantity : 3\n"
