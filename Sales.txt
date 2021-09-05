@@ -1,1 +1,0 @@
-"Name of customer : Samprati Katariya  Phone no : 8787687674\nItem name : T-shirt Price : 400 Quantity : 2Item name : Pants Price : 400 Quantity : 2\nBill amount : 1600 Time : Wed Sep  1 22:50:22 2021"
